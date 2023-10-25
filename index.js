@@ -3,7 +3,7 @@ console.log(date);
 console.log("Hi Jayasankar");
 
 function add(a, b) {
-    return a + b
+    console.log(a+b);
 };
 
 add(2, 3);
