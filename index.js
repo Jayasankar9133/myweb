@@ -1,1 +1,2 @@
-console.log("Hello Jayasankar");
+date = new Date();
+console.log(date);
